@@ -1,0 +1,13 @@
+title: test_case_foliant_10082023
+
+preprocessors:
+  - flags:
+      flags:
+        - foo
+        - bar
+        - radio
+
+chapters:
+  - index.md
+  - HTML.md
+  
